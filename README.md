@@ -1,1 +1,2 @@
 - 👋 Hi, I’m Long
+- I'm Fresher ASP.NET =))
