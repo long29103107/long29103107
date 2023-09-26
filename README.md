@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Long
-- I'm Fresher ASP.NET =))
+- I'm developer ASP.NET of [Siliconstack]([https://choosealicense.com/licenses/mit/](https://siliconstack.com.au)https://siliconstack.com.au)
